@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/23 00:50:01.000.835,=C:\Users\Dell-Mike\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/29 17:13:48.000.380,=C:\Users\Dell-Mike\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/06 20:07:49.000.414,=C:\Users\Dell-Mike\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/06 20:10:14.000.819,C:\TInject\Projeto-delivery\u_principal.pas=C:\Users\Dell-Mike\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/06 20:10:14.000.819,C:\TInject\Projeto-delivery\u_principal.dfm=C:\Users\Dell-Mike\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/01/06 20:11:59.000.671,C:\TInject\Projeto-delivery\delivery.dproj=C:\Users\Dell-Mike\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/01/06 20:44:12.000.888,=C:\TInject\Projeto-delivery\uBotConversa.pas</Transaction>
+    <Transaction>2020/01/06 20:44:12.000.904,=C:\TInject\Projeto-delivery\uBotGestor.pas</Transaction>
+    <Transaction>2020/01/13 17:23:41.000.860,=C:\TInject\Projeto-delivery\uBotDAO.pas</Transaction>
+    <Transaction>2020/01/23 01:49:35.000.750,=C:\TInject\Projeto-delivery\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 01:51:11.000.749,C:\TInject\Projeto-delivery\uBlackList.dfm=C:\TInject\Projeto-delivery\Unit1.dfm</Transaction>
+    <Transaction>2020/01/23 01:51:11.000.749,C:\TInject\Projeto-delivery\uBlackList.pas=C:\TInject\Projeto-delivery\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 19:35:34.000.602,=C:\TInject\Projeto-delivery\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 19:36:48.000.862,C:\TInject\Projeto-delivery\Unit1.pas=C:\TInject\Projeto-delivery\uPedidos.pas</Transaction>
+    <Transaction>2020/01/23 19:36:48.000.862,C:\TInject\Projeto-delivery\Unit1.dfm=C:\TInject\Projeto-delivery\uPedidos.dfm</Transaction>
+    <Transaction>2020/01/23 19:49:00.000.152,=C:\TInject\Projeto-delivery\Unit1.pas</Transaction>
+    <Transaction>2020/01/23 19:51:31.000.460,C:\TInject\Projeto-delivery\Unit1.dfm=C:\TInject\Projeto-delivery\uItemPedido.dfm</Transaction>
+    <Transaction>2020/01/23 19:51:31.000.460,C:\TInject\Projeto-delivery\Unit1.pas=C:\TInject\Projeto-delivery\uItemPedido.pas</Transaction>
+    <Transaction>2020/07/01 11:48:10.000.564,=C:\LEANDRO\DELPHI\NextZap Delivery\Unit1.pas</Transaction>
+    <Transaction>2020/07/01 11:50:29.000.553,C:\LEANDRO\DELPHI\NextZap Delivery\Unit1.dfm=C:\LEANDRO\DELPHI\NextZap Delivery\uConfig.dfm</Transaction>
+    <Transaction>2020/07/01 11:50:29.000.553,C:\LEANDRO\DELPHI\NextZap Delivery\Unit1.pas=C:\LEANDRO\DELPHI\NextZap Delivery\uConfig.pas</Transaction>
+    <Transaction>2020/07/01 13:00:22.000.553,C:\LEANDRO\DELPHI\NextZap Delivery\delivery.dproj=C:\LEANDRO\DELPHI\NextZap Delivery\NextZapDelivery.dproj</Transaction>
+    <Transaction>2020/07/01 18:07:42.000.961,=C:\LEANDRO\DELPHI\NextZap Delivery\Unit1.pas</Transaction>
+    <Transaction>2020/07/01 18:09:40.000.617,C:\LEANDRO\DELPHI\NextZap Delivery\uBackup.pas=C:\LEANDRO\DELPHI\NextZap Delivery\Unit1.pas</Transaction>
+    <Transaction>2020/07/01 18:09:40.000.617,C:\LEANDRO\DELPHI\NextZap Delivery\uBackup.dfm=C:\LEANDRO\DELPHI\NextZap Delivery\Unit1.dfm</Transaction>
+    <Transaction>2020/07/21 02:03:38.000.561,=C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\Unit1.pas</Transaction>
+    <Transaction>2020/07/21 02:07:25.000.827,C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\fPedidos.pas=C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\Unit1.pas</Transaction>
+    <Transaction>2020/07/21 02:07:25.000.827,C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\fPedidos.dfm=C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\Unit1.dfm</Transaction>
+    <Transaction>2020/07/21 02:07:37.000.999,C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\uPedidos.pas=</Transaction>
+    <Transaction>2020/07/21 04:34:37.000.040,C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\NextZapDelivery.dproj=C:\LEANDRO\DELPHI\NextBot Delivery Pizzaria\NextBotDelivery.dproj</Transaction>
+    <Transaction>2020/07/26 22:50:03.000.838,C:\FONTES\ProtecNorteBotLanche\NextBotDelivery.dproj=C:\FONTES\ProtecNorteBotLanche\ProtecBotLanche.dproj</Transaction>
+    <Transaction>2020/08/01 14:11:54.000.527,=C:\LEANDRO\DELPHI\ProtecBot Lanches\Unit1.pas</Transaction>
+    <Transaction>2020/08/01 14:15:57.000.603,C:\LEANDRO\DELPHI\ProtecBot Lanches\Unit1.pas=C:\LEANDRO\DELPHI\ProtecBot Lanches\fsplash.pas</Transaction>
+    <Transaction>2020/08/01 14:15:57.000.603,C:\LEANDRO\DELPHI\ProtecBot Lanches\Unit1.dfm=C:\LEANDRO\DELPHI\ProtecBot Lanches\fsplash.dfm</Transaction>
+    <Transaction>2020/08/03 18:31:02.000.896,=C:\LEANDRO\DELPHI\ProtecBot Lanches\Unit1.pas</Transaction>
+    <Transaction>2020/08/03 18:32:30.000.987,C:\LEANDRO\DELPHI\ProtecBot Lanches\Unit1.dfm=C:\LEANDRO\DELPHI\ProtecBot Lanches\ftabela.dfm</Transaction>
+    <Transaction>2020/08/03 18:32:30.000.987,C:\LEANDRO\DELPHI\ProtecBot Lanches\Unit1.pas=C:\LEANDRO\DELPHI\ProtecBot Lanches\ftabela.pas</Transaction>
+    <Transaction>2020/08/03 20:56:13.000.173,C:\LEANDRO\DELPHI\NextBot Lanches\NextBotLanches.dproj=C:\LEANDRO\DELPHI\NextBot Lanches\ProtecBotLanche.dproj</Transaction>
+    <Transaction>2020/08/15 17:54:13.000.024,=C:\LEANDRO\DELPHI\NextBot Lanches\Unit1.pas</Transaction>
+    <Transaction>2020/08/15 17:55:27.000.087,C:\LEANDRO\DELPHI\NextBot Lanches\Unit1.pas=C:\LEANDRO\DELPHI\NextBot Lanches\uAjustes.pas</Transaction>
+    <Transaction>2020/08/15 17:55:27.000.087,C:\LEANDRO\DELPHI\NextBot Lanches\Unit1.dfm=C:\LEANDRO\DELPHI\NextBot Lanches\uAjustes.dfm</Transaction>
+    <Transaction>2020/12/16 07:04:08.000.165,C:\Fontes_Projetos\CoreBotWhatsapp\NextBotLanches.dproj=C:\Fontes_Projetos\CoreBotWhatsapp\coreBot.dproj</Transaction>
+    <Transaction>2020/12/29 15:22:28.000.720,=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.pas</Transaction>
+    <Transaction>2020/12/29 15:23:05.000.153,C:\Fontes_Projetos\CoreBotWhatsapp\uProceduresFunctions.pas=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 08:15:34.000.663,=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 08:16:18.000.233,C:\Fontes_Projetos\CoreBotWhatsapp\uCadastroBasicoClientes.pas=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 08:16:18.000.233,C:\Fontes_Projetos\CoreBotWhatsapp\uCadastroBasicoClientes.dfm=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.dfm</Transaction>
+    <Transaction>2021/01/06 10:58:59.000.178,=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.pas</Transaction>
+    <Transaction>2021/01/06 10:59:15.000.037,C:\Fontes_Projetos\CoreBotWhatsapp\uLogin.pas=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.pas</Transaction>
+    <Transaction>2021/01/06 10:59:15.000.037,C:\Fontes_Projetos\CoreBotWhatsapp\uLogin.dfm=C:\Fontes_Projetos\CoreBotWhatsapp\Unit1.dfm</Transaction>
+    <Transaction>2021/01/06 11:05:00.000.509,C:\Fontes_Projetos\CoreBotWhatsapp\uLoginParaCancelamento.pas=C:\Fontes_Projetos\CoreBotWhatsapp\uLogin.pas</Transaction>
+    <Transaction>2021/01/06 11:05:00.000.509,C:\Fontes_Projetos\CoreBotWhatsapp\uLoginParaCancelamento.dfm=C:\Fontes_Projetos\CoreBotWhatsapp\uLogin.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
